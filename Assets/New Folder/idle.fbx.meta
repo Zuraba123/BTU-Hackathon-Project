@@ -1,0 +1,1390 @@
+fileFormatVersion: 2
+guid: 70cfd0a31dc7fa745985543ae59d09a7
+timeCreated: 1495306203
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: body
+    100004: chest
+    100006: cloth
+    100008: head
+    100010: hips
+    100012: //RootNode
+    100014: Joint_3
+    100016: Joint_3_2
+    100018: Joint_3_2_2
+    100020: Joint_3_2_2_end
+    100022: Joint_3_2_3
+    100024: Joint_3_2_3_end
+    100026: Joint_3_2_end
+    100028: Joint_3_3
+    100030: Joint_3_3_2
+    100032: Joint_3_3_2_end
+    100034: Joint_3_3_end
+    100036: Joint_3_4
+    100038: Joint_3_4_2
+    100040: Joint_3_4_2_end
+    100042: Joint_3_4_end
+    100044: Joint_3_5
+    100046: Joint_3_5_2
+    100048: Joint_3_5_2_end
+    100050: Joint_3_5_end
+    100052: Joint_3_end
+    100054: L_anke
+    100056: L_arm
+    100058: L_elbow
+    100060: L_foot
+    100062: L_knee
+    100064: L_leg
+    100066: L_middle1
+    100068: L_middle2
+    100070: L_middle3
+    100072: L_pink1
+    100074: L_pink2
+    100076: L_pink3
+    100078: L_point1
+    100080: L_point2
+    100082: L_point3
+    100084: L_ring1
+    100086: L_ring2
+    100088: L_ring3
+    100090: L_shoulder
+    100092: L_thumb1
+    100094: L_thumb2
+    100096: L_thumb3
+    100098: L_toes
+    100100: L_toes_end
+    100102: L_wrist
+    100104: neck
+    100106: R_anke
+    100108: R_arm
+    100110: R_elbow
+    100112: R_foot
+    100114: R_knee
+    100116: R_leg
+    100118: R_middle1
+    100120: R_middle2
+    100122: R_middle3
+    100124: R_pink1
+    100126: R_pink2
+    100128: R_pink3
+    100130: R_point1
+    100132: R_point2
+    100134: R_point3
+    100136: R_ring1
+    100138: R_ring2
+    100140: R_ring3
+    100142: R_shoulder
+    100144: R_thumb1
+    100146: R_thumb2
+    100148: R_thumb3
+    100150: R_toes
+    100152: R_toes_end
+    100154: R_wrist
+    100156: spine
+    100158: tip
+    100160: tip_end
+    400000: Armature
+    400002: body
+    400004: chest
+    400006: cloth
+    400008: head
+    400010: hips
+    400012: //RootNode
+    400014: Joint_3
+    400016: Joint_3_2
+    400018: Joint_3_2_2
+    400020: Joint_3_2_2_end
+    400022: Joint_3_2_3
+    400024: Joint_3_2_3_end
+    400026: Joint_3_2_end
+    400028: Joint_3_3
+    400030: Joint_3_3_2
+    400032: Joint_3_3_2_end
+    400034: Joint_3_3_end
+    400036: Joint_3_4
+    400038: Joint_3_4_2
+    400040: Joint_3_4_2_end
+    400042: Joint_3_4_end
+    400044: Joint_3_5
+    400046: Joint_3_5_2
+    400048: Joint_3_5_2_end
+    400050: Joint_3_5_end
+    400052: Joint_3_end
+    400054: L_anke
+    400056: L_arm
+    400058: L_elbow
+    400060: L_foot
+    400062: L_knee
+    400064: L_leg
+    400066: L_middle1
+    400068: L_middle2
+    400070: L_middle3
+    400072: L_pink1
+    400074: L_pink2
+    400076: L_pink3
+    400078: L_point1
+    400080: L_point2
+    400082: L_point3
+    400084: L_ring1
+    400086: L_ring2
+    400088: L_ring3
+    400090: L_shoulder
+    400092: L_thumb1
+    400094: L_thumb2
+    400096: L_thumb3
+    400098: L_toes
+    400100: L_toes_end
+    400102: L_wrist
+    400104: neck
+    400106: R_anke
+    400108: R_arm
+    400110: R_elbow
+    400112: R_foot
+    400114: R_knee
+    400116: R_leg
+    400118: R_middle1
+    400120: R_middle2
+    400122: R_middle3
+    400124: R_pink1
+    400126: R_pink2
+    400128: R_pink3
+    400130: R_point1
+    400132: R_point2
+    400134: R_point3
+    400136: R_ring1
+    400138: R_ring2
+    400140: R_ring3
+    400142: R_shoulder
+    400144: R_thumb1
+    400146: R_thumb2
+    400148: R_thumb3
+    400150: R_toes
+    400152: R_toes_end
+    400154: R_wrist
+    400156: spine
+    400158: tip
+    400160: tip_end
+    4300000: cloth
+    4300002: body
+    7400000: Armature|Armature|CINEMA_4D_Main|Layer0
+    7400002: Armature|chestcontrol|CINEMA_4D_Main|Layer0
+    7400004: Armature|hipcontrol|CINEMA_4D_Main|Layer0
+    7400006: Armature|L_arm_Goal|CINEMA_4D_Main|Layer0
+    7400008: Armature|R_arm_Goal|CINEMA_4D_Main|Layer0
+    7400010: Armature|spinecontrol|CINEMA_4D_Main|Layer0
+    9500000: //RootNode
+    13700000: body
+    13700002: cloth
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Armature|CINEMA_4D_Main|Layer0
+      takeName: Armature|Armature|CINEMA_4D_Main|Layer0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/L_leg
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot/L_toes
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot/L_toes/L_toes_end
+        weight: 1
+      - path: Armature/hips/R_leg
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot/R_toes
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot/R_toes/R_toes_end
+        weight: 1
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/chest
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3/Joint_3_4
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3/Joint_3_4/Joint_3_4_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3/Joint_3_2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3/Joint_3_2/Joint_3_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3/Joint_3_5
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3/Joint_3_5/Joint_3_5_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3/Joint_3_3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3/Joint_3_3/Joint_3_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3/Joint_3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3/Joint_3/Joint_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/neck
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head/tip
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head/tip/tip_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3/Joint_3_4_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3/Joint_3_4_2/Joint_3_4_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3/Joint_3_2_3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3/Joint_3_2_3/Joint_3_2_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3/Joint_3_5_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3/Joint_3_5_2/Joint_3_5_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3/Joint_3_3_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3/Joint_3_3_2/Joint_3_3_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3/Joint_3_2_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3/Joint_3_2_2/Joint_3_2_2_end
+        weight: 1
+      - path: body
+        weight: 1
+      - path: cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|chestcontrol|CINEMA_4D_Main|Layer0
+      takeName: Armature|chestcontrol|CINEMA_4D_Main|Layer0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/L_leg
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot/L_toes
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot/L_toes/L_toes_end
+        weight: 1
+      - path: Armature/hips/R_leg
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot/R_toes
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot/R_toes/R_toes_end
+        weight: 1
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/chest
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3/Joint_3_4
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3/Joint_3_4/Joint_3_4_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3/Joint_3_2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3/Joint_3_2/Joint_3_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3/Joint_3_5
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3/Joint_3_5/Joint_3_5_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3/Joint_3_3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3/Joint_3_3/Joint_3_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3/Joint_3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3/Joint_3/Joint_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/neck
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head/tip
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head/tip/tip_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3/Joint_3_4_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3/Joint_3_4_2/Joint_3_4_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3/Joint_3_2_3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3/Joint_3_2_3/Joint_3_2_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3/Joint_3_5_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3/Joint_3_5_2/Joint_3_5_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3/Joint_3_3_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3/Joint_3_3_2/Joint_3_3_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3/Joint_3_2_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3/Joint_3_2_2/Joint_3_2_2_end
+        weight: 1
+      - path: body
+        weight: 1
+      - path: cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|hipcontrol|CINEMA_4D_Main|Layer0
+      takeName: Armature|hipcontrol|CINEMA_4D_Main|Layer0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/L_leg
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot/L_toes
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot/L_toes/L_toes_end
+        weight: 1
+      - path: Armature/hips/R_leg
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot/R_toes
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot/R_toes/R_toes_end
+        weight: 1
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/chest
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3/Joint_3_4
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3/Joint_3_4/Joint_3_4_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3/Joint_3_2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3/Joint_3_2/Joint_3_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3/Joint_3_5
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3/Joint_3_5/Joint_3_5_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3/Joint_3_3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3/Joint_3_3/Joint_3_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3/Joint_3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3/Joint_3/Joint_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/neck
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head/tip
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head/tip/tip_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3/Joint_3_4_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3/Joint_3_4_2/Joint_3_4_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3/Joint_3_2_3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3/Joint_3_2_3/Joint_3_2_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3/Joint_3_5_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3/Joint_3_5_2/Joint_3_5_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3/Joint_3_3_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3/Joint_3_3_2/Joint_3_3_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3/Joint_3_2_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3/Joint_3_2_2/Joint_3_2_2_end
+        weight: 1
+      - path: body
+        weight: 1
+      - path: cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|L_arm_Goal|CINEMA_4D_Main|Layer0
+      takeName: Armature|L_arm_Goal|CINEMA_4D_Main|Layer0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/L_leg
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot/L_toes
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot/L_toes/L_toes_end
+        weight: 1
+      - path: Armature/hips/R_leg
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot/R_toes
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot/R_toes/R_toes_end
+        weight: 1
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/chest
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3/Joint_3_4
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3/Joint_3_4/Joint_3_4_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3/Joint_3_2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3/Joint_3_2/Joint_3_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3/Joint_3_5
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3/Joint_3_5/Joint_3_5_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3/Joint_3_3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3/Joint_3_3/Joint_3_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3/Joint_3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3/Joint_3/Joint_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/neck
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head/tip
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head/tip/tip_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3/Joint_3_4_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3/Joint_3_4_2/Joint_3_4_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3/Joint_3_2_3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3/Joint_3_2_3/Joint_3_2_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3/Joint_3_5_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3/Joint_3_5_2/Joint_3_5_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3/Joint_3_3_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3/Joint_3_3_2/Joint_3_3_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3/Joint_3_2_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3/Joint_3_2_2/Joint_3_2_2_end
+        weight: 1
+      - path: body
+        weight: 1
+      - path: cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|R_arm_Goal|CINEMA_4D_Main|Layer0
+      takeName: Armature|R_arm_Goal|CINEMA_4D_Main|Layer0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/L_leg
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot/L_toes
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot/L_toes/L_toes_end
+        weight: 1
+      - path: Armature/hips/R_leg
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot/R_toes
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot/R_toes/R_toes_end
+        weight: 1
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/chest
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3/Joint_3_4
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3/Joint_3_4/Joint_3_4_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3/Joint_3_2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3/Joint_3_2/Joint_3_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3/Joint_3_5
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3/Joint_3_5/Joint_3_5_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3/Joint_3_3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3/Joint_3_3/Joint_3_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3/Joint_3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3/Joint_3/Joint_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/neck
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head/tip
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head/tip/tip_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3/Joint_3_4_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3/Joint_3_4_2/Joint_3_4_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3/Joint_3_2_3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3/Joint_3_2_3/Joint_3_2_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3/Joint_3_5_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3/Joint_3_5_2/Joint_3_5_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3/Joint_3_3_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3/Joint_3_3_2/Joint_3_3_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3/Joint_3_2_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3/Joint_3_2_2/Joint_3_2_2_end
+        weight: 1
+      - path: body
+        weight: 1
+      - path: cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|spinecontrol|CINEMA_4D_Main|Layer0
+      takeName: Armature|spinecontrol|CINEMA_4D_Main|Layer0
+      firstFrame: 0
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/L_leg
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot/L_toes
+        weight: 1
+      - path: Armature/hips/L_leg/L_knee/L_anke/L_foot/L_toes/L_toes_end
+        weight: 1
+      - path: Armature/hips/R_leg
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot/R_toes
+        weight: 1
+      - path: Armature/hips/R_leg/R_knee/R_anke/R_foot/R_toes/R_toes_end
+        weight: 1
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/chest
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3/Joint_3_4
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3/Joint_3_4/Joint_3_4_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3/Joint_3_2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_pink1/L_pink2/L_pink3/Joint_3_2/Joint_3_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3/Joint_3_5
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_point1/L_point2/L_point3/Joint_3_5/Joint_3_5_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3/Joint_3_3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_ring1/L_ring2/L_ring3/Joint_3_3/Joint_3_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3/Joint_3
+        weight: 1
+      - path: Armature/hips/spine/chest/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3/Joint_3/Joint_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/neck
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head/tip
+        weight: 1
+      - path: Armature/hips/spine/chest/neck/head/tip/tip_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3/Joint_3_4_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3/Joint_3_4_2/Joint_3_4_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3/Joint_3_2_3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_pink1/R_pink2/R_pink3/Joint_3_2_3/Joint_3_2_3_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3/Joint_3_5_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_point1/R_point2/R_point3/Joint_3_5_2/Joint_3_5_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3/Joint_3_3_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_ring1/R_ring2/R_ring3/Joint_3_3_2/Joint_3_3_2_end
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3/Joint_3_2_2
+        weight: 1
+      - path: Armature/hips/spine/chest/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3/Joint_3_2_2/Joint_3_2_2_end
+        weight: 1
+      - path: body
+        weight: 1
+      - path: cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
